@@ -276,10 +276,6 @@ img {
     color: #F4F4FD;
     max-width: 264px;
 }
-.container-footer {
-    display: flex;
-    flex-direction: column;
-}
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
