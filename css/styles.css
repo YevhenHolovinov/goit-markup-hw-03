@@ -71,10 +71,10 @@ img {
     display: flex;
     align-items: center;
     gap: 40px;
-    padding: 24px 0;
 }
 .link-menu{
     font-weight: 500;
+    padding: 24px 0;
 }
 .link-menu:hover {
     color: #404BBF;
